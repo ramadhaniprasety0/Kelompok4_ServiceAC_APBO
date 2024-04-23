@@ -29,6 +29,7 @@ Maju Jaya Service (MJS) adalah perusahaan layanan AC dan kulkas yang menyediakan
 - Melihat Status Layanan
 - Membuat Pesanan
 - Melihat Laporan Perbaikan
+  
 **2. Fitur Admin**
 - login ke akun Admin
 - Menambah Layanan Jasa
@@ -36,6 +37,7 @@ Maju Jaya Service (MJS) adalah perusahaan layanan AC dan kulkas yang menyediakan
 - Mengupdate Layanan Jasa
 - Melihat Status Layanan
 - Melihat Laporan perbaikan
+  
 **3.Fitur Teknisi**
 - Login ke akun Teknisi
 - Melihat Pesanan
