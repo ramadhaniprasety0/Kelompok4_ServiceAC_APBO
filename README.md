@@ -20,3 +20,36 @@ Maju Jaya Service (MJS) adalah perusahaan layanan AC dan kulkas yang menyediakan
 4. Jadwal layanan dan pemesanan yang bentrok membuat pemilik menjadi kurang efisien dalam manajemen jadwal.
 5. Industri layanan sangat kompetitif, dengan banyak penyedia layanan yang bersaing untuk mendapatkan perhatian pelanggan.
 6. Kurangnya perkembangan fitur website terdahulu
+
+---
+### Solusi  
+**1. Fitur Customer**	
+- login ke akun customer
+- Reservasi Layanan
+- Melihat Status Layanan
+- Membuat Pesanan
+- Melihat Laporan Perbaikan
+**2. Fitur Admin**
+- login ke akun Admin
+- Menambah Layanan Jasa
+- Menghapus Layanan Jasa
+- Mengupdate Layanan Jasa
+- Melihat Status Layanan
+- Melihat Laporan perbaikan
+**3.Fitur Teknisi**
+- Login ke akun Teknisi
+- Melihat Pesanan
+- Menambah status Layanan
+- Menghapus status Layanan
+- Mengupdate status Layanan
+- Melihat Status Layanan
+- Membuat Laporan Perbaikan
+
+---
+### Actor
+**Actor yang menggunakan**
+1. Customer
+2. Admin
+3. Teknisi
+
+---
