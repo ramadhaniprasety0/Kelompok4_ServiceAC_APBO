@@ -96,6 +96,7 @@ Terdapat kardinalitas juga seperti many to one
 ### Flowchart
 ![Flowchart](./Flowchart%20MJS.png)
 
+flowchart dimulai dengan customer melakukan login untuk masuk kedalam aplikasi begitu juga dengan admin dan teknisi selanjutnya customers memilih jenis layanan yang ada pada web MJS lalu customers mengisi detail pemesanan. nah selanjutnya admin yang sudah melakukan login ke aplikasi bisa langsung mengkonfirmasi pesanan, jika di tolak maka selesai.jika diterima teknisi yang sudah melakukan login ke aplikasi dapat menerima pesanan yang telah di konfirmasi admin, teknisi melakukan service pada rumah customer. sesudah teknisi melakukan service pada rumah customer, customers dapat melakukan pembayaran. dan proses ini selesai
 ---
 ### DataMentah
 ![Flowchart](./DataMentahServiceMJS.jpg)
@@ -137,3 +138,7 @@ Terdapat kardinalitas juga seperti many to one
 ---
 ### Link Youtube
 [Klik Untuk Melihat Vidio Presentasi Kelompok kami](https://youtu.be/2l02bllTSH0?si=e_DfEx330IrAECAd)
+
+---
+### Link Canva
+[Klik Untuk Melihat PPT Kelompok kami](https://www.canva.com/design/DAF_T0ZNwiY/UormKtfOqmmJkgQ4OZPaoQ/edit)
