@@ -5,7 +5,7 @@
 - Ramadhani Prasetyo - 4522210009
 - Daffa Abraar Sajuti - 4522210040
 - Farah Tri Mahardini - 4522210042
-- Salwa Khaira Mista - 4522210066
+- Salwa Khairu Mista - 4522210066
 - Nadia Ayu Rahmawati - 4522210077
   
 ---
@@ -69,3 +69,10 @@ Maju Jaya Service (MJS) adalah perusahaan layanan AC dan kulkas yang menyediakan
 ---
 ### Flowchart
 ![Flowchart](./Flowchart%20MJS.png)
+
+---
+### Link Youtube
+https://youtu.be/2l02bllTSH0?si=e_DfEx330IrAECAd
+
+
+ 
