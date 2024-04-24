@@ -71,8 +71,43 @@ Maju Jaya Service (MJS) adalah perusahaan layanan AC dan kulkas yang menyediakan
 ![Flowchart](./Flowchart%20MJS.png)
 
 ---
+### DataMentah
+![Flowchart](./DataMentahServiceMJS.jpg)
+
+---
+
+### Wireframe Pelanggan Service
+**Tampilan Login Pelanggan**
+![Flowchart](./WireframePelanggan/WireframePelangganPage1.png)
+**Tampilan Daftar Pelanggan**
+![Flowchart](./WireframePelanggan/WireframePelangganPage2.png)
+**Tampilan Home Page Pelanggan**
+![Flowchart](./WireframePelanggan/WireframePelangganPage3.png)
+**Tampilan Pemesanan Pelanggan**
+![Flowchart](./WireframePelanggan/WireframePelangganPage4.png)
+**Tampilan Riwayat Pemesanan Pelanggan**
+![Flowchart](./WireframePelanggan/WireframePelangganPage5.png)
+
+### Wireframe Admin
+**Tampilan Dashboard Admin**
+![Flowchart](./WireframeAdmin/WireframeAdminPage1.png)
+**Tampilan Pesanan Admin**
+![Flowchart](./WireframeAdmin/WireframeAdminPage2.png)
+**Tampilan Pengaturan**
+![Flowchart](./WireframeAdmin/WireframeAdminPage3.png)
+**Tampilan Edit Layanan**
+![Flowchart](./WireframeAdmin/WireframeAdminPage4.png)
+**Tampilan Tambah Staff**
+![Flowchart](./WireframeAdmin/WireframeAdminPage5.png)
+
+### Wireframe Teknisi
+**Tampilan Dashboard Teknisi**
+![Flowchart](./WireframeTeknisi/WireframeTeknisiPage1.png)
+**Tampilan Tugas Teknisi**
+![Flowchart](./WireframeTeknisi/WireframeTeknisiPage2.png)
+**Tampilan Pembayaran**
+![Flowchart](./WireframeTeknisi/WireframeTeknisiPage3.png)
+
+---
 ### Link Youtube
-https://youtu.be/2l02bllTSH0?si=e_DfEx330IrAECAd
-
-
- 
+[Klik Untuk Melihat Vidio Presentasi Kelompok kami](https://youtu.be/2l02bllTSH0?si=e_DfEx330IrAECAd)
