@@ -61,6 +61,32 @@ Maju Jaya Service (MJS) adalah perusahaan layanan AC dan kulkas yang menyediakan
 ---
 ### ERD (Entity Relationship Diagram)
 ![ERD](/ERD%20JASA%20SERVICE%20AC.png)
+Terdapat 6 entutas pada ERD Jasa Service MJS seperti:
+- Customer
+- Admin
+- Teknisi
+- Order
+- Service
+- StatusService
+
+Tiap entitas memiliki atribut
+- Customer --> (IDcustomer, Nmcustomer, NoTelp, Alamat, Password)
+- Admin --> (IDadmin, Nmadmin, NoTelp_admin, Password, IDcustomer)
+- Teknisis --> (IDteknisi, Nmteknisi, NoTelpteknisi, Password, IDcustomer)
+- Order --> (IDorder, Tglorder, IDcustomer, IDstatus, IDteknisi, IDservice)
+- Service --> (IDservice, Nmservice, Harga)
+- StatusService --> (IDstatus, keterangan)
+
+Adapun relationship antar entitas seperti:
+1. dilayani --> pada entitas customer dan admin
+2. ditangani --> pada entitas customer dan teknisi
+3. Memesan --> pada entitas customer dan order
+4. Mencakup --> pada entitas order dan Admin
+5. Mencakup --> pada entitas order dan teknisi
+6. Mencakup --> pada entitas order dan service
+7. Berstatus --> pada entitas order dan StatusService
+
+Terdapat kardinalitas juga seperti many to one
 
 ---
 ### Class Diagram
