@@ -58,10 +58,34 @@ Maju Jaya Service (MJS) adalah perusahaan layanan AC dan kulkas yang menyediakan
 ### Use Case
 ![Use Case](./UseCaseServiceMJS.jpg)
 
+Pada use case beberapa fungsi yang bisa digunakan tiap actor
+
+1. Customer
+- Customer dapat login ke akun customer 
+- Customer dapat memilih jasa layanan 
+- Customer dapat reservasi layanan
+- Customer dapat melihat status layanan 
+- Customer dapat melihat laporan perbaikan
+- Lalu customer akan melakukan pembayaran
+2. Admin 
+- Admin dapat login ke akun admin 
+- Admin dapat menambah layanan jasa  
+- Admin dapat menghapus layanan jasa 
+- Admin dapat mengupdate layanan jasa 
+- Admin dapat melihat pesanan 
+- Admin juga dapat melihat laporan perbaikan 
+3. Teknisi 
+- Teknisi dapat login ke akun teknisi 
+- Teknisi juga dapat melihat pesanan 
+- Teknisi dapat menambah status layanan
+- Teknisi dapat menghapus status layanan
+- Teknisi dapat mengupdate status layanan
+- Teknisi akan membuat laporan perbaikan
+
 ---
 ### ERD (Entity Relationship Diagram)
 ![ERD](/ERD%20JASA%20SERVICE%20AC.png)
-Terdapat 6 entutas pada ERD Jasa Service MJS seperti:
+Terdapat 6 entitas pada ERD Jasa Service MJS seperti:
 - Customer
 - Admin
 - Teknisi
@@ -96,44 +120,46 @@ Terdapat kardinalitas juga seperti many to one
 ### Flowchart
 ![Flowchart](./Flowchart%20MJS.png)
 
-flowchart dimulai dengan customer melakukan login untuk masuk kedalam aplikasi begitu juga dengan admin dan teknisi selanjutnya customers memilih jenis layanan yang ada pada web MJS lalu customers mengisi detail pemesanan. nah selanjutnya admin yang sudah melakukan login ke aplikasi bisa langsung mengkonfirmasi pesanan, jika di tolak maka selesai.jika diterima teknisi yang sudah melakukan login ke aplikasi dapat menerima pesanan yang telah di konfirmasi admin, teknisi melakukan service pada rumah customer. sesudah teknisi melakukan service pada rumah customer, customers dapat melakukan pembayaran. dan proses ini selesai
+Flowchart dimulai dengan customer melakukan login untuk masuk kedalam aplikasi begitu juga dengan admin dan teknisi.Selanjutnya customers memilih jenis layanan yang ada pada web MJS lalu customers mengisi detail pemesanan.Lalu admin yang sudah melakukan login ke aplikasi bisa langsung mengkonfirmasi pesanan, jika di tolak maka selesai.Jika diterima, maka teknisi yang sudah melakukan login ke aplikasi dapat menerima pesanan yang telah di konfirmasi admin, dan teknisi melakukan service pada rumah customer. Setelah teknisi melakukan service pada rumah customer, customers dapat melakukan pembayaran dan proses selesai. 
+
 ---
 ### DataMentah
-![Flowchart](./DataMentahServiceMJS.jpg)
+![DataMentah](./DataMentahServiceMJS.jpg)
 
 ---
 
 ### Wireframe Pelanggan Service
 **Tampilan Login Pelanggan**
-![Flowchart](./WireframePelanggan/WireframePelangganPage1.png)
+
+![Wireframe](./WireframePelanggan/WireframePelangganPage1.png)
 **Tampilan Daftar Pelanggan**
-![Flowchart](./WireframePelanggan/WireframePelangganPage2.png)
+![Wireframe](./WireframePelanggan/WireframePelangganPage2.png)
 **Tampilan Home Page Pelanggan**
-![Flowchart](./WireframePelanggan/WireframePelangganPage3.png)
+![Wireframe](./WireframePelanggan/WireframePelangganPage3.png)
 **Tampilan Pemesanan Pelanggan**
-![Flowchart](./WireframePelanggan/WireframePelangganPage4.png)
+![Wireframe](./WireframePelanggan/WireframePelangganPage4.png)
 **Tampilan Riwayat Pemesanan Pelanggan**
-![Flowchart](./WireframePelanggan/WireframePelangganPage5.png)
+![Wireframe](./WireframePelanggan/WireframePelangganPage5.png)
 
 ### Wireframe Admin
 **Tampilan Dashboard Admin**
-![Flowchart](./WireframeAdmin/WireframeAdminPage1.png)
+![Wireframe](./WireframeAdmin/WireframeAdminPage1.png)
 **Tampilan Pesanan Admin**
-![Flowchart](./WireframeAdmin/WireframeAdminPage2.png)
+![Wireframe](./WireframeAdmin/WireframeAdminPage2.png)
 **Tampilan Pengaturan**
-![Flowchart](./WireframeAdmin/WireframeAdminPage3.png)
+![Wireframe](./WireframeAdmin/WireframeAdminPage3.png)
 **Tampilan Edit Layanan**
-![Flowchart](./WireframeAdmin/WireframeAdminPage4.png)
+![Wireframe](./WireframeAdmin/WireframeAdminPage4.png)
 **Tampilan Tambah Staff**
-![Flowchart](./WireframeAdmin/WireframeAdminPage5.png)
+![Wireframe](./WireframeAdmin/WireframeAdminPage5.png)
 
 ### Wireframe Teknisi
 **Tampilan Dashboard Teknisi**
-![Flowchart](./WireframeTeknisi/WireframeTeknisiPage1.png)
+![Wireframe](./WireframeTeknisi/WireframeTeknisiPage1.png)
 **Tampilan Tugas Teknisi**
-![Flowchart](./WireframeTeknisi/WireframeTeknisiPage2.png)
+![Wireframe](./WireframeTeknisi/WireframeTeknisiPage2.png)
 **Tampilan Pembayaran**
-![Flowchart](./WireframeTeknisi/WireframeTeknisiPage3.png)
+![Wireframe](./WireframeTeknisi/WireframeTeknisiPage3.png)
 
 ---
 ### Link Youtube
