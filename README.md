@@ -115,6 +115,33 @@ Terdapat kardinalitas juga seperti many to one
 ---
 ### Class Diagram
 ![Class Diagram](./DiagramClassServiceMJS.jpg)
+Hampir sama seperti ERD, yang membedakan adalah adanya classpada class diagram serta tidak terdapat relationship, kardinalitas.
+
+Contoh class dalam entitas Customer
+-Login()
+-VerifikasiLogin()
+-BuatPesanan()
+-RsrvsiSrvice()
+-LihatStatusSrvice()
+-LihatLprnPrbaikan()
+
+Contoh class dalam entitas Admin
+-Login()
+-VerifikasiLogin()
+-TmbhLynanSrvice()
+-HpsLynanSrvice()
+-UpdateLynanSrvice()
+-LihatStatusSrvice()
+-LihatLprnPrbaikan()
+
+Contoh class dalam entitas Teknisi
+-Login()
+-VerifikasiLogin()
+-LihatPesanan()
+-TmbhStatusSrvice()
+-UpdateStatusSrvice()
+-HpsStatusSrvice()
+-BuatLprnPrbaikan()
 
 ---
 ### Flowchart
@@ -184,6 +211,15 @@ Flowchart dimulai dengan customer melakukan login untuk masuk kedalam aplikasi b
 **Tampilan Pembayaran**
 
 ![Wireframe](./WireframeTeknisi/WireframeTeknisiPage3.png)
+
+---
+### Penjelasan UX
+User Experience (UX) dari MJS App yang kami membuat agar pengguna dapat berinteraksi dengan mudah dan bisa digunakan di semua kalangan usia, agar pengguna merasakan pengalaman yang lebih saat menggunakan App kami.
+
+Design kami intuitif, mudah dipahami, efisien, dan memuaskan pengguna, Kelebihan dari Design kami antara lain:
+- Desain kami fokus pada kebutuhan pengguna.
+- Pengguna tidak bingung atau frustrasi saat menggunakan layanan kami.
+- Desain yang estetis dapat membuat layanan kami lebih menyenangkan untuk digunakan.
 
 ---
 ### Link Youtube
