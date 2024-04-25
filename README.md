@@ -132,33 +132,57 @@ Flowchart dimulai dengan customer melakukan login untuk masuk kedalam aplikasi b
 **Tampilan Login Pelanggan**
 
 ![Wireframe](./WireframePelanggan/WireframePelangganPage1.png)
+
 **Tampilan Daftar Pelanggan**
+
 ![Wireframe](./WireframePelanggan/WireframePelangganPage2.png)
+
 **Tampilan Home Page Pelanggan**
+
 ![Wireframe](./WireframePelanggan/WireframePelangganPage3.png)
+
 **Tampilan Pemesanan Pelanggan**
+
 ![Wireframe](./WireframePelanggan/WireframePelangganPage4.png)
+
 **Tampilan Riwayat Pemesanan Pelanggan**
+
 ![Wireframe](./WireframePelanggan/WireframePelangganPage5.png)
+
 
 ### Wireframe Admin
 **Tampilan Dashboard Admin**
+
 ![Wireframe](./WireframeAdmin/WireframeAdminPage1.png)
+
 **Tampilan Pesanan Admin**
+
 ![Wireframe](./WireframeAdmin/WireframeAdminPage2.png)
+
 **Tampilan Pengaturan**
+
 ![Wireframe](./WireframeAdmin/WireframeAdminPage3.png)
+
 **Tampilan Edit Layanan**
+
 ![Wireframe](./WireframeAdmin/WireframeAdminPage4.png)
+
 **Tampilan Tambah Staff**
+
 ![Wireframe](./WireframeAdmin/WireframeAdminPage5.png)
+
 
 ### Wireframe Teknisi
 **Tampilan Dashboard Teknisi**
+
 ![Wireframe](./WireframeTeknisi/WireframeTeknisiPage1.png)
+
 **Tampilan Tugas Teknisi**
+
 ![Wireframe](./WireframeTeknisi/WireframeTeknisiPage2.png)
+
 **Tampilan Pembayaran**
+
 ![Wireframe](./WireframeTeknisi/WireframeTeknisiPage3.png)
 
 ---
