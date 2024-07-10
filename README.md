@@ -50,9 +50,10 @@ Maju Jaya Service (MJS) adalah perusahaan layanan AC dan kulkas yang menyediakan
 ---
 ### Actor
 **Actor yang menggunakan**
-1. Customer
-2. Admin
-3. Teknisi
+Aktor
+- Customer: Pelanggan yang menggunakan aplikasi untuk memesan layanan perbaikan.
+- Teknisi: Teknisi yang melakukan perbaikan.
+- Admin: Administrator yang mengelola aplikasi dan sistem.
 
 ---
 ### Use Case
@@ -158,13 +159,6 @@ Flowchart dimulai dengan customer melakukan login untuk masuk kedalam aplikasi b
 ---
 
 ### Sequence Diagram
-
-Aktor
-- Customer: Pelanggan yang menggunakan aplikasi untuk memesan layanan perbaikan.
-- Teknisi: Teknisi yang melakukan perbaikan.
-- Admin: Administrator yang mengelola aplikasi dan sistem.
-
----
 
 1. Sequence Diagram Customer
 
