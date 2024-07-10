@@ -145,7 +145,7 @@ Contoh class dalam entitas Teknisi
 
 ---
 ### Flowchart
-![Flowchart](./Flowchart%20MJS.png)
+![Flowchart](./flowchartmjs.png)
 
 Flowchart dimulai dengan customer melakukan login untuk masuk kedalam aplikasi begitu juga dengan admin dan teknisi.Selanjutnya customers memilih jenis layanan yang ada pada web MJS lalu customers mengisi detail pemesanan.Lalu admin yang sudah melakukan login ke aplikasi bisa langsung mengkonfirmasi pesanan, jika di tolak maka selesai.Jika diterima, maka teknisi yang sudah melakukan login ke aplikasi dapat menerima pesanan yang telah di konfirmasi admin, dan teknisi melakukan service pada rumah customer. Setelah teknisi melakukan service pada rumah customer, customers dapat melakukan pembayaran dan proses selesai. 
 
