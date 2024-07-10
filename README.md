@@ -56,7 +56,7 @@ Maju Jaya Service (MJS) adalah perusahaan layanan AC dan kulkas yang menyediakan
 
 ---
 ### Use Case
-![Use Case](./UseCaseServiceMJS.jpg)
+![Use Case](./UseCaseMSJ.png)
 
 Pada use case beberapa fungsi yang bisa digunakan tiap actor
 
