@@ -22,7 +22,7 @@ Maju Jaya Service (MJS) adalah perusahaan layanan AC dan kulkas yang menyediakan
 6. Kurangnya perkembangan fitur website terdahulu
 
 ---
-### Solusi  
+### Requirement
 **1. Fitur Customer**	
 - login ke akun customer
 - Reservasi Layanan
