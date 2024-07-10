@@ -277,7 +277,7 @@ Design kami intuitif, mudah dipahami, efisien, dan memuaskan pengguna, Kelebihan
 
 ---
 ### Link Youtube
-[![Tonton video peresentasi Kelompok kami di YouTube](https://youtu.be/2l02bllTSH0?si=e_DfEx330IrAECAd/0.jpg)](https://youtu.be/2l02bllTSH0?si=e_DfEx330IrAECAd)
+[[Tonton video peresentasi Kelompok kami di YouTube](https://youtu.be/2l02bllTSH0?si=e_DfEx330IrAECAd).
 
 ---
 ### Link Canva
